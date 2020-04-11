@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hastane_projesi", "hastane_projesi\hastane_projesi.csproj", "{113AB7FE-DC16-40D2-9CF3-AA16F16942B5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hastane Projesi Setup", "Hastane Projesi Setup\Hastane Projesi Setup.vdproj", "{5FBC5087-5FF1-4E85-8408-5BBCA057ED23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113AB7FE-DC16-40D2-9CF3-AA16F16942B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113AB7FE-DC16-40D2-9CF3-AA16F16942B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113AB7FE-DC16-40D2-9CF3-AA16F16942B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113AB7FE-DC16-40D2-9CF3-AA16F16942B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBC5087-5FF1-4E85-8408-5BBCA057ED23}.Debug|Any CPU.ActiveCfg = Debug
+		{5FBC5087-5FF1-4E85-8408-5BBCA057ED23}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA9BB62-999F-4927-B947-FBD210D05323}
+	EndGlobalSection
+EndGlobal
